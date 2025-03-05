@@ -1,0 +1,1 @@
+Proyecto final del curso de Taller de Programaciòn donde se pedia realizar una pagina web a una empresa o colegio privado teniendo en cuenta sus problematicas y como mejorarlas. Por lo que este proyecto buscaba mejorar la gestiòn de matriculas del colegio elegido para satisfacer al cliente y aumentar el rendimiento de las solicitudes de matricula por dia. 
